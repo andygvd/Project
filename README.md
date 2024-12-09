@@ -1,9 +1,7 @@
 # Project
 MAT 327 Milestones / Project
-I am interested in this dataset of top YouTubers because I watch YouTube for everything, an extremely helpful tool that everyone has access to.
+I am interested in this dataset gym members because the gym is the best way to become more healthy.
 
-The dataset for this can be found on https://www.kaggle.com/datasets/noreasonsu/youtube-top-1000-channels-updated-nov-2024?resource=download
+The dataset for this can be found on https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 
-This dataset was made by HypeAuditor where you can track and analyze influencers and accounts, it is tracked to date, from when I believe YouTube was made actually.
-
-This dataset contains information such as the name of the YouTuber, # of Subscribers, # of Avg Viewers, # of Avg Likes, # of Comments, and the country they're from.
+This dataset contains information such as the, age of members, weight, height, calories burned, duration of time in the gym.
