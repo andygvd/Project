@@ -8,3 +8,4 @@
 > correlation <- cor(gym$`Weight (kg)`, gym$Calories_Burned)
 > print(paste("Correlation: ", correlation))
 [1] "Correlation:  0.0954434730121706"
+
